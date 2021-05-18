@@ -52,7 +52,7 @@ Python
 {
 "success": "Url d76d7e6970 created successfully"
 }
-// Ответ, если нет такой ссылки
+// Ответ, если такая ссылка имеется
 {
 "error": "Url d76d7e6970 already exist"
 }
